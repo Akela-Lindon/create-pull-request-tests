@@ -1,4 +1,4 @@
-name: clean-command
+Uname: clean-command
 on:
   repository_dispatch:
     types: [clean-command]
